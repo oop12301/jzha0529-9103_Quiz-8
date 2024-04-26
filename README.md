@@ -7,6 +7,6 @@ __Halo (halation) effect__ is a more commonly used imaging technology in digital
 
 __Examples:__
 
-![Imaging example]("assets/image1.jpg")
+![Imaging example](assets/image1.jpg)
 
-![Imaging example]("assets/image2.jpg")
+![Imaging example](assets/image2.jpg)
