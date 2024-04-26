@@ -41,5 +41,4 @@ In this example, through one of the author's scripts, I learned that the author:
 in my p5.js project, I'm not sure p5 has a similar function, maybe I can try to create a circle of random color and vary the size and place it behind an object to achieve a similar effect.
 
 
-> The script link: [Script Link](https://github.com/elringus/sprite-glow/blob/main/Assets/Scripts/GlowColorRandomizer.cs)
->
+> The coding link: [Script Link](https://github.com/elringus/sprite-glow/blob/main/Assets/Scripts/GlowColorRandomizer.cs)
