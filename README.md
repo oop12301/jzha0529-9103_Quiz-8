@@ -1,5 +1,7 @@
 # jzha0529-9103_Quiz-8
 
+
+
 ## Imaging Technique Inspiration
 
 
@@ -15,6 +17,8 @@ __Examples:__
 
 
 In my project, I can use similar techniques to wrap an object or part of an object with light, or to blur a distant scene with light, both of which can be used in the artwork __'Wheels of fortune'__ and, __'Saint Georges majeur au cre?puscule'__ respectively.
+
+
 
 
 
