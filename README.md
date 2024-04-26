@@ -31,3 +31,15 @@ __In Unity (C sharp)__, I found an example of implementing a halo effect on an o
 ![Imaging example](assets/image4.gif)
 
 
+In this example, through one of the author's scripts, I learned that the author:
+
+1. Directly use __SpriteGlowEffect__ to implement a glow effect on the obejct.
+2. Setting random colors.
+3. Setting the random color range.
+
+
+in my p5.js project, I'm not sure p5 has a similar function, maybe I can try to create a circle of random color and vary the size and place it behind an object to achieve a similar effect.
+
+
+> The script link: [Script Link](https://github.com/elringus/sprite-glow/blob/main/Assets/Scripts/GlowColorRandomizer.cs)
+>
